@@ -13,7 +13,7 @@ The intention was just to create a visual clone, but after finishing I wanted to
 
 ### Demonstration
 
-![](/captures/rec1mod.mp4)
+![](/captures/rec1modgif.gif)
 
 ### Preview
 
