@@ -17,10 +17,11 @@ The intention was just to create a visual clone, but after finishing I wanted to
 
 ### Preview
 
-![](/Screenshot/capture.png)
-![](/Screenshot/capture2.png)
-![](/Screenshot/capture3.png)
-![](/Screenshot/capture4.png)
+![](/captures/cap1.png)
+![](/captures/cap2.png)
+![](/captures/cap3.png)
+![](/captures/cap4.png)
+
 
 ---
 
