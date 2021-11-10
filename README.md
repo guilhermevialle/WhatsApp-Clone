@@ -15,14 +15,6 @@ The intention was just to create a visual clone, but after finishing I wanted to
 
 ![](/captures/rec1modgif.gif)
 
-### Preview
-
-![](/captures/cap1.jpg)
-![](/captures/cap2.jpg)
-![](/captures/cap3.jpg)
-![](/captures/cap4.pnjpg)
-
-
 ---
 ## 🔗 Social media
 
