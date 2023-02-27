@@ -1,4 +1,5 @@
-## WhatsApp Web clone
+# WhatsApp Web clone
+This is a front-end part only but still very close.
 
 ## Demo
 
