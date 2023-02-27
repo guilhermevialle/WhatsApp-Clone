@@ -1,4 +1,4 @@
-## WhatsApp web clone
+## WhatsApp Web clone
 
 ## Demo
 
