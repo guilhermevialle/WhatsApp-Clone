@@ -1,4 +1,4 @@
-## WhatsApp Web Version Clone with ReactJS
+## WhatsApp web clone
 
 ## Demo
 
