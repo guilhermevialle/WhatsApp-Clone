@@ -1,6 +1,6 @@
 ## WhatsApp Web Version Clone with ReactJS
 
-## Demon
+## Demo
 
 ![](/captures/rec1modgif.gif)
 
