@@ -1,7 +1,5 @@
 ## WhatsApp Web Version Clone with ReactJS
 
-> #### by guilhermevialle
-
 ## Demonstration
 
 ![](/captures/rec1modgif.gif)
