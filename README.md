@@ -1,4 +1,4 @@
-# WhatsApp Web clone
+# [DEPRECATED] WhatsApp Web clone
 This application aims to clone the whtasapp web interval and its features.
 
 ## Demo
