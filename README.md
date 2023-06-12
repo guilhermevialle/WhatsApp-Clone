@@ -1,5 +1,5 @@
 # WhatsApp Web clone
-This is a front-end part only but still very close.
+This application aims to clone the whtasapp web interval and its features.
 
 ## Demo
 
